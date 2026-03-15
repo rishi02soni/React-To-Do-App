@@ -2,7 +2,7 @@
 # 🚀 React To-Do App
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </p>
 
 A simple and interactive **To-Do List Web Application** built using **React.js, JavaScript, and CSS**.
@@ -22,7 +22,7 @@ This project demonstrates **React components, state management, and DOM interact
 ## ⚛ React.js
 
 <p align="center">
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="450">
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="350">
 </p>
 
 React is used to build reusable UI components and manage application state efficiently.
@@ -32,7 +32,7 @@ React is used to build reusable UI components and manage application state effic
 ## 🟨 JavaScript
 
 <p align="center">
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="450">
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="350">
 </p>
 
 JavaScript handles the **application logic**, user interactions, and dynamic updates.
